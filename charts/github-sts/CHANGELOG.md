@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-03-18)
+
+
+### Features
+
+* add helm chart ([0bbebb5](https://github.com/Learn-Think-Do/test-release-helm/commit/0bbebb5e7b8f62df087e8d4460f6637715600592))
+
 ## [0.1.2](https://github.com/AlexandreODelisle/py-github-sts/compare/github-sts-chart-v0.1.1...github-sts-chart-v0.1.2) (2026-03-10)
 
 
