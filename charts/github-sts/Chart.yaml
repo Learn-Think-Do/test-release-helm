@@ -2,7 +2,7 @@ apiVersion: v2
 name: github-sts
 description: GitHub Security Token Service (STS) - OIDC to GitHub token exchange
 type: application
-version: 1.0.1
+version: 1.1.0
 appVersion: 0.0.1
 keywords:
   - github
@@ -14,4 +14,4 @@ keywords:
 home: https://github.com/Depthmark/github-sts-helm
 sources:
   - https://github.com/Depthmark/github-sts-helm
-  - https://github.com/Depthmark/github-sts 
+  - https://github.com/Depthmark/github-sts

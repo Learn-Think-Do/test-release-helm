@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Learn-Think-Do/test-release-helm/compare/github-sts-v1.0.1...github-sts-v1.1.0) (2026-03-18)
+
+
+### Features
+
+* Update Chart.yaml ([ef52841](https://github.com/Learn-Think-Do/test-release-helm/commit/ef52841b51da16890cbaa23c0995b6b9f21493cf))
+
 ## [1.0.1](https://github.com/Learn-Think-Do/test-release-helm/compare/github-sts-v1.0.0...github-sts-v1.0.1) (2026-03-18)
 
 
