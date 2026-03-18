@@ -10,7 +10,7 @@ keywords:
   - authentication
   - security
   - sts
-  - token-exchange
+  - token-exchanges
 home: https://github.com/Depthmark/github-sts-helm
 sources:
   - https://github.com/Depthmark/github-sts-helm
