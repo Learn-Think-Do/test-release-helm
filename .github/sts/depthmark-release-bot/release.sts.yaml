@@ -1,0 +1,8 @@
+issuer: https://token.actions.githubusercontent.com
+subject: "repo:Depthmark-Lab/test-release-helm:ref:refs/heads/main"
+
+claim_pattern:
+  job_workflow_ref: "Depthmark-Lab/test-release-helm/.github/workflows/release-please\\.yml@.*"
+
+permissions:
+  contents: write

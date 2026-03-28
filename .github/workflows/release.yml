@@ -2,18 +2,9 @@
 name: Release Helm
 
 on:
-  workflow_call:
-    inputs:
-      tag_name:
-        description: "Helm release tag (e.g., github-sts-v1.2.3)"
-        required: true
-        type: string
-  workflow_dispatch:
-    inputs:
-      tag_name:
-        description: "Helm release tag (e.g., github-sts-v1.2.3)"
-        required: true
-        type: string
+  push:
+    branches: [main]
+    tags: ['v*']
 
 permissions: {}
 
