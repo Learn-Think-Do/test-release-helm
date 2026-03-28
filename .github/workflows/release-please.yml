@@ -24,7 +24,7 @@ jobs:
         id: sts
         with:
           sts-url: https://github-sts-dev.adelisle.com
-          scope: ${{ env.GITHUB_REPOSITORY }}
+          scope: Depthmark-Lab/test-release-helm
           identity: release
           app: depthmark-release-bot
       - name: Run Release Please
